@@ -46,8 +46,8 @@ var _moment = require('moment')
 var _moment2 = _interopRequireDefault(_moment)
 
 function _interopRequireDefault (obj) { return obj && obj.__esModule ? obj : { default: obj } }
-import iconNext from './../icons/icon_next'
-import iconPrev from './../icons/icon_prev'
+import iconNext from './icons/icon_next'
+import iconPrev from './icons/icon_prev'
 
 exports.default = {
   props: {
